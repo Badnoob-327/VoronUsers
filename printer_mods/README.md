@@ -37,8 +37,6 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | | [Keystone Jack Universal Skirt Insert](./bryansj/Keystone_Jack_Universal_Skirt_Insert) | Keystone Jack Insert to fit into any hexagonal hole in the skirt | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | | [Befenybay Chain Anchors](./bryansj/Befenybay_Chain_Anchors) | Befenybay 10x11 Drag Chain Top Anchor and 2020 Extrusion Mount | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | blamm   | [Blind Joint Drilling Jigs](./blamm/jigs) | Jigs to drill your blind joints in the right spot | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| | [HEPA Filter Housing](./blamm/hepa_filter) | HEPA Filter Housing for cheap Roomba filters | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| | [Relay module bracket](./blamm/relay_bracket) | Relay module (4 channel) mount | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | cadriel | [Triangle Lab Filament Sensor Mount](./cadriel/triangle_lab_filament_sensor_mount) | Triange Lab filament sensor mounts | :grey_question: | :grey_question: | :heavy_check_mark: |
 | Cerulean   | [Respooler](./Cerulean/Respooler) | Respool tangled spools or bad koils | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | chilicoke   | [Low Profile Exhaust Duct](./chilicoke/Low_profile_exhaust_duct_adapter) | Quick-release exhaust duct adapter that requires minumal rear spacing  | :grey_question: | :heavy_check_mark: | :heavy_check_mark: |
@@ -68,8 +66,6 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | Hackdoggo| [BMGobius](./hackdoggo/v2/bmgobius)|Modification to MZBot's Mobius Extruder to use dual drive Bondtech drivegears |:heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
 |hiemmer | [Tool Holders](./hiemmer/Tool_Holders)| Tool holder for calipers, screwdriver etc| :grey_question:| :grey_question:|:grey_question: |
 |JaredC01 | [Mini 12864 Voron Knob](./JaredC01/Mini_12864_Voron_Knob) | Upgraded knob for Fystec Mini 12864 RGB LED Display | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| | [Keystone Power Panel](./JaredC01/Keystone_Power_Panel)| Power Panel with 1 or 2 Keystone Jacks | :x: | :heavy_check_mark: | :heavy_check_mark: |
-| | [Mosfet Mounts](./JaredC01/Mosfet_Mounts)| Mosfet Mount for 4 or 6 Mosfets | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Jasperkm | [5mm panel mounting](./Jasperkm/5mm_panel_mounting)| Edited panel clips for 4mm panel + 1mm foam tape| :x: | :heavy_check_mark: | :heavy_check_mark: |
 | | [Brush holder](./Jasperkm/Brush_holder)| Brush holder next to printbed | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | | [Cable management](./Jasperkm/Cable_management)| Cable trunking and 2020 slot cover | :x: | :heavy_check_mark: | :heavy_check_mark: |
@@ -97,9 +93,6 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | |[LED Mounts](./Koios) |Different mounts for LED light bars |:grey_question: |:heavy_check_mark: | :heavy_check_mark:|
 |manfre |[Openbuild chain ends](./manfre/cable_chains) |Cable chain ends to use off the shelf chains with Voron parts |:x: |:heavy_check_mark: |:heavy_check_mark: |
 |masgar |[Direct Drive for 1.6.2](./masgar/V1.6.2_direct_drive) | Remix of 1.6.2 toolhead and Afterburner | :heavy_check_mark: | :x: | :x: |
-| |[VoltAmpMeter panel insert](./masgar/VoltAmpMeter_Panel_Insert)   | Mounting panel for VoltAmpMeter | :heavy_check_mark: |:x: |:x: |
-| |[BTT SKR Mini v1.1 mounting frame](./masgar/BTT_SKR_Mini_v1.1_mounting_frame)   | Mounting frame for BigTreeTech SKR Mini v1.1 | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
-|meteyou |[Gcode Buttons](./meteyou/gcode_buttons) |Buttons in the skirt to execute gcode |:grey_question: |:heavy_check_mark: |:heavy_check_mark: |
 |nemgrea |[Magnetic Split Front Door](./nemgrea/magnetic_split_front_door) |Hinges, handles and magnet mounts for creating a split front door panel |:x: |:heavy_check_mark: |:grey_question: |
 |OrkusMG | [Waveshare 5 Inch LCD Cover](./OrkusMG/Waveshare5inchHDMILCDscreenCover)|Display Cover for the Waveshare 5 inch HDMI LCD screen |:heavy_check_mark: |:heavy_check_mark: | :heavy_check_mark:|
 |PhilLeMint | [c920 Mount](./PhilLeMint/c920_Mount/) | c920 Camera Mount | :grey_question: | :heavy_check_mark: | :heavy_check_mark: |
@@ -112,7 +105,6 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | |[Toothed Idler](./pnokel) |14.5mm toothed idler | :x: | :x: |:x:|
 | przybybr|[V2.1 Omron Mount](./przybybr/V2_1OmronMount/) | Mount for Omron probe in V2.1 | :grey_question:|:heavy_check_mark: | :x:|
 | Railgunner|[Dual Direct Drive X Carriage](./Railgunner/10mmBMGx2) |Dual direct drive using 2x Bondtech BMG | :grey_question:|:grey_question: |:grey_question: |
-| schlank|[Turbocharger](./schlank/turbocharger) | Alternative fumes extraction solution | :x:|:heavy_check_mark: |:heavy_check_mark: |
 | Seamen|[RAMPS Extender Holder](./Seamen/RAMPS-Extender_holder) |Mount for RAMPS board with the stepper extender |:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
 |Slidr | [Energy Chain](./Slidr/EnergyChain) | Alternative energie chain  | :grey_question: |:grey_question: |:heavy_check_mark: |
 |Sparreau | [5V Power Supply Mount](./Sparreau)|5V Power Supply Mount |:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
@@ -134,7 +126,7 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 |Trippinonaduck |[Switch Holder](./Trippinonaduck/SwitchHolder) | Holder for Anit-Vandal Switches mounted in skirt holes  | :x:|:heavy_check_mark: | :heavy_check_mark:|
 | |[LRS-75-5](./Trippinonaduck/LRS_75_5) | Mount for LRS-75-5 Power Supply  | :heavy_check_mark:|:heavy_check_mark: | :heavy_check_mark:|
 |warriorofwire | [Openbuilds Drag Chain 2.1](./warriorofwire/openbuilds_drag_chain_2.1)|Off-the-shelf, cheap, snap opening drag chain for gantry wiring and protecting wires down to the deck |:x: | :heavy_check_mark: | :x: |
-| | [Openbuilds Drag Chain 2.2](./warriorofwire/openbuilds_drag_chain_2.2)|Off-the-shelf, cheap, snap opening drag chain for gantry wiring and protecting wires down to the deck |:x: | :x: | :heavy_check_mark: |
+| | [Openbuilds Drag Chain 2.2](./warriorofwire/openbuilds_drag_chain_2.2)|Off-the-shelf, cheap, snap opening drag chain for gantry wiring and protecting wires down to the deck |:x: | :x: | :heavy_check_mark: | 
 | | [Direct Drive BMG-m mount](./warriorofwire/bmg_direct_drive)| Open toolhead mounting plans for Bondtech BMG-m and Mosquito direct drive combo|:grey_question: |:heavy_check_mark:|:heavy_check_mark: |
 | wile.e.coyote| [Coroplast Support](./wile.e.coyote)|Support for the coroplast to prevent sagging | :x: |:heavy_check_mark: |:grey_question: |
 | |[Dual Buck Bracket](./wile.e.coyote)   |Mounting bracket for 2 buck converters | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
